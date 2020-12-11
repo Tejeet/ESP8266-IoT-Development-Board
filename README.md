@@ -14,6 +14,8 @@ Features :
 - Micro USB Programmable ( CH340 Driver )
 - DC 5MM Jack for Adapter Power Supply
 - All GPIO Access with JST Connectors
+- 2 Pin Speaker JST Connector
+
 
 Board Image
 
